@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "432591444975",
+    "firebase_url": "https://fastphoto-f8a38.firebaseio.com",
+    "project_id": "fastphoto-f8a38",
+    "storage_bucket": "fastphoto-f8a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432591444975:android:fcdde742ee3d93ac",
+        "android_client_info": {
+          "package_name": "userphotograph.student.example.com.myfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432591444975-310ccr5rsl7621talqdmu0i9v5fdeskb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "userphotograph.student.example.com.myfa",
+            "certificate_hash": "be2ab152113d65de45b4643b920e8b3bbbe9c6be"
+          }
+        },
+        {
+          "client_id": "432591444975-9bbg073e4lmsu8s0t3gm6528i1ept4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FwQ-6UTZefskY09BBMT-Od-bcTMvkvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432591444975-9bbg073e4lmsu8s0t3gm6528i1ept4tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432591444975:android:c6e497744356f7d0",
+        "android_client_info": {
+          "package_name": "userphotograph.student.example.com.pics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432591444975-m829v5f720uf5aj1t3v1fah1fcki8p7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "userphotograph.student.example.com.pics",
+            "certificate_hash": "be2ab152113d65de45b4643b920e8b3bbbe9c6be"
+          }
+        },
+        {
+          "client_id": "432591444975-9bbg073e4lmsu8s0t3gm6528i1ept4tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7FwQ-6UTZefskY09BBMT-Od-bcTMvkvs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432591444975-9bbg073e4lmsu8s0t3gm6528i1ept4tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

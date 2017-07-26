@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:background="#442233"
+    android:padding="50dp"
+    tools:context="userphotograph.student.example.com.pics.ButtonsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <Button
+        android:id="@+id/to_picasso"
+        android:text="picasso"
+        android:background="@color/picaso"
+        android:layout_marginBottom="40dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+         />
+    <Button
+        android:id="@+id/to_glide"
+        android:text="glide"
+        android:background="@color/colorAccent"
+        android:layout_marginBottom="40sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:id="@+id/to_fresco"
+        android:text="fresco"
+        android:background="@color/colorPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+</LinearLayout>
